@@ -51,8 +51,6 @@
 - Looking at multiple positions
 - Taking matchup into account when making projections
 
-## THANK YOU! ANY QUESTIONS?
-
 **Sources:**
 - Bootstrapping idea from [Fantasy Football Data Pros](https://www.fantasyfootballdatapros.com/blog/intermediate/7)
 - Photos all via Google Images
