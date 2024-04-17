@@ -27,17 +27,6 @@
   - 6 for projected values from sources
   - Creating Dataframe for Graphs
 
-- **Our Suggestion:**
-  - Start Kupp and Diggs
-  - Both have highest means from bootstrap
-  - Broad distribution = higher upside
-
-- **Outcomes and Takeaways**
-  - Kupp and Diggs performed very similarly to projected!!
-  - Hill’s Big Day (Dolphins Scored 49 Points)
-  - Justin Jefferson: Close but no touchdown
-  - Davante Adams: BIG disappointment!!
-
 ## Simulation Examples
 - **Predicting Fantasy Points:**
   - Probability of scoring at least 10 fantasy points
